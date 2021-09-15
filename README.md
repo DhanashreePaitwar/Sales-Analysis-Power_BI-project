@@ -9,3 +9,5 @@ Sales analytics is the practice of generating insights from sales data, trends, 
 
 
 Sales analytics helps uncover insights and increasingly recommends the best decisons to sales reps and managers. ... Sales analytics is used in identifying, modeling, understanding and predicting sales trends and outcomes while aiding sales management in understanding where salespeople can improve.
+
+
